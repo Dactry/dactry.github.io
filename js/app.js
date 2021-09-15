@@ -1,0 +1,1 @@
+$(document).ready((function(){ScrollOut({onShown:function(a){var t=$(a).attr("data-class");a.classList.add("animate__animated"),$(a).addClass(t)}})}));
